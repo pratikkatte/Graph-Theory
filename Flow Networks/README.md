@@ -8,7 +8,8 @@ of flow that can be sent through it. The goal is to find the maximum amount of f
 The jupyter notebook explains various algorithms that help achieve these problems. 
 1. Naive Greedy Algorithms
 2. Ford-Fulkerson Algorithm.
-3. Dicen Algorithm
+3. Edmonds–Karp algorithm
+4. Dinic's algorithm
 
 
 
