@@ -9,7 +9,4 @@ The jupyter notebook explains various algorithms that help achieve these problem
 1. Naive Greedy Algorithms
 2. Ford-Fulkerson Algorithm.
 3. Edmonds–Karp algorithm
-4. Dinic's algorithm
-
-
 
